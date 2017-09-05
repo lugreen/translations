@@ -7,3 +7,7 @@ build
 out
 xls
 .idea/
+content/zh_CN/cuba/gradle/
+*.bat
+*.gradle
+content/zh_CN/cuba/gradlew
